@@ -15,7 +15,7 @@ The **PMF Ground Filter** is a ROS package designed for efficient ground segment
 ![Input](imgs/input.png)
 - **Ground PointCloud:**
 ![Ground](imgs/ground.png)
-- **Ground PointCloud:**
+- **NonGround PointCloud:**
 ![NonGround](imgs/non_ground.png)
 
 
